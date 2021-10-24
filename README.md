@@ -13,7 +13,7 @@ Du'a Jaradat
 
 - [Pull Request](https://github.com/duajaradat/chess-board/pull/1)
 
--[Code](https://github.com/duajaradat/chess-board/blob/chess-board/chess_board.ipynb)
+- [Code](https://github.com/duajaradat/chess-board/blob/chess-board/chess_board.ipynb)
 
 ---
 
